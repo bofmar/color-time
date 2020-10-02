@@ -1,0 +1,15 @@
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+time{
+    color: beige;
+    font-size: 7em;
+    font-family: 'Old Standard TT', serif;
+    font-variant-numeric: tabular-nums;
+}
+
